@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  line-height: 1, 5;
+}
+h1 {
+  color: brown;
+}
+img {
+  border-radius: 15px;
+}
+h2 {
+  color: brown;
+}
+li {
+  color: brown;
+}
+
+ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 20px;
+  padding: 0px;
+}
+li {
+  list-style: none;
+  color: maroon;
+  background-color: peachpuff;
+  padding: 20px;
+  border-radius: 10px;
+}
